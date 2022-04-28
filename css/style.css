@@ -33,3 +33,12 @@ li {
     height: auto;
     margin: 0%;
 }
+.ingredients-box {
+    background-color: #f7f1e9;
+    margin-left: 15%;
+    width: 30%;
+    border: 1px solid black;
+}
+h3 {
+    text-indent: 20px;
+}

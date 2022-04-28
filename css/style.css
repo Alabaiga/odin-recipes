@@ -1,6 +1,6 @@
 .container {
     width: 15%;
-    background-color:#4fd104 ;
+    background-color:#a1825a ;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -33,15 +33,27 @@ li {
     height: auto;
     margin: 0%;
 }
-.ingredients-box {
+
+.ingredients-box,.step-container {
     background-color: #f7f1e9;
-    margin-left: 15%;
-    width: 30%;
     border: 1px solid black;
+}
+.ingredients-box {
+    width: 30%;
+    margin-left: 15%;
+}
+.step-container {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 h3 {
     text-indent: 20px;
+    text-decoration: underline;
 }
 body {
     background-color: #c2ae93;
+}
+p {
+    font-size: 20px;
 }

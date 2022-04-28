@@ -11,7 +11,7 @@
     padding: 5px;
 }
 .header {
-    background-color: #a4a6a2;
+    background-color: #89ff8d;
     padding: 15px 10px;
     margin-bottom: 0 auto;
     text-align: center;
@@ -21,10 +21,15 @@ li {
     font-size: 20px;
     padding: 5px;
 }
-.homepage-images {
+.main-images {
     width: 600px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+.logo-img {
+    width: 24px;
+    height: auto;
+    margin: 0%;
 }

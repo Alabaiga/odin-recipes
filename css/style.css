@@ -11,7 +11,7 @@
     padding: 5px;
 }
 .header {
-    background-color: #89ff8d;
+    background-color: #4a6b43;
     padding: 15px 10px;
     margin-bottom: 0 auto;
     text-align: center;
@@ -29,7 +29,7 @@ li {
     display: block;
 }
 .logo-img {
-    width: 24px;
+    width: 70px;
     height: auto;
     margin: 0%;
 }
@@ -41,4 +41,7 @@ li {
 }
 h3 {
     text-indent: 20px;
+}
+body {
+    background-color: #c2ae93;
 }

@@ -1,0 +1,22 @@
+.container {
+    width: 15%;
+    background-color:#4fd104 ;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.index-list {
+    list-style-position: inside;
+    list-style-type: none;
+    padding: 5px;
+}
+.header {
+    background-color: #a4a6a2;
+    padding: 15px 10px;
+    margin-bottom: 0 auto;
+    text-align: center;
+}
+li {
+    font-size: 20px;
+    padding: 5px;
+}
